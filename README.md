@@ -1,6 +1,6 @@
 # Code Refactor Horizon Services webpage!
 
-Refactor of the Horiseon web oage to follow accessibility standards and optimize for search engines.
+Refactor of the Horiseon web page to follow accessibility standards and optimize for search engines.
 
 ## User Story
 As a student

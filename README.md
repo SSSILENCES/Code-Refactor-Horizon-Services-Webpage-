@@ -1,6 +1,6 @@
 # Code Refactor Horizon Services webpage!
 
-In this mini-project, you will build a landing page using HTML and CSS. While you will be responsible for your own landing page, you will work in a group to brainstorm and share ideas.
+Refactor of the Horiseon web oage to follow accessibility standards and optimize for search engines.
 
 ## User Story
 As a student

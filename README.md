@@ -1,4 +1,4 @@
-# Module 1 Challenge 
+# Code Refactor Horizon Services webpage!
 
 In this mini-project, you will build a landing page using HTML and CSS. While you will be responsible for your own landing page, you will work in a group to brainstorm and share ideas.
 

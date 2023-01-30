@@ -4,8 +4,11 @@ In this mini-project, you will build a landing page using HTML and CSS. While yo
 
 ## User Story
 As a student
+
 I WANT to organized and add more things to Horiseon Social Solution Services webpage
+
 So that their page is more optamize and readable for developers and users
+
 
 ## Acceptance Criteria
 GIVEN a webpage meets accessibility standards
